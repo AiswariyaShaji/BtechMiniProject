@@ -1,6 +1,6 @@
 # BtechMiniProject
 
-Project title : Hand Gesture Controlled Laptop Using Arduino
+Project title : Hand Gesture Controlled Laptop Using Arduino.
 Led a team of 4 and was involved in successfully completing a
 hardware project in which a  video player (created by using
 python3) can be controlled by using hand gestures
